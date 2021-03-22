@@ -2,6 +2,17 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path":"../../go-acme/lego/"
 		}
-	]
+	],
+	"extensions": {
+		"recommendations": [
+			"robbowen.synthwave-vscode",
+			"euskadi31.json-pretty-printer",
+			"eamodio.gitlens",
+			"golang.go"
+		]
+	}
 }
