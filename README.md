@@ -32,11 +32,11 @@ To use this module for the ACME DNS challenge, [configure the ACME issuer in you
 			"provider": {
 				"name":             "rfc_2136",
 				"api_token":        "YOUR_PROVIDER_API_TOKEN",
-        "rfc2136_server":   "YOUR_PROVIDER_RFC2136_SERVER_IP",
-        "rfc2136_port":     "YOUR_PROVIDER_DNS_PORT",
-        "rfc2136_name":     "YOUR_KEY_RECORD_NAME",
-        "rfc2136_secret":   "YOUR_KEY_RECORD_SECRET",
-        "rfc2136_algorithm":"YOUR_PROVIDER_ALGORITHM"
+				"rfc2136_server":   "YOUR_PROVIDER_RFC2136_SERVER_IP",
+				"rfc2136_port":     "YOUR_PROVIDER_DNS_PORT",
+				"rfc2136_name":     "YOUR_KEY_RECORD_NAME",
+				"rfc2136_secret":   "YOUR_KEY_RECORD_SECRET",
+				"rfc2136_algorithm":"YOUR_PROVIDER_ALGORITHM"
 			}
 		}
 	}
