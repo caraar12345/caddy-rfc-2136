@@ -1,4 +1,4 @@
-module github.com/caddy-dns/template
+module github.com/caraar12345/caddy-rfc-2136
 
 go 1.16
 
